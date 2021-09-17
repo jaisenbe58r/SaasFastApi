@@ -1,6 +1,6 @@
 Building a robust API base for a SAAS application.
 
-### Getting Started:
+### Getting Started::
 
 Create a `.env` file in this projects root and fill out the following:
 
