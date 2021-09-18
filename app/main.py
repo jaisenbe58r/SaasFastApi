@@ -20,7 +20,7 @@ Base.metadata.create_all(bind=engine)
 # Initialize FastAPI
 app = FastAPI(
     title="FastAPI Base",
-    description="This is a base app to be used in the future for real SAAS apps and hackathons.",
+    description="This is a base app SAAS.",
     version="0.0.1",
     docs_url="/docs",
     redoc_url=None,
